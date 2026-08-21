@@ -1,0 +1,6 @@
+{
+  "name": "VADER Tweet Sentiment Analyzer",
+  "description": "Lexicon and rule-based sentiment analysis platform for tweets and microblog streams using the VADER model.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
